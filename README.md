@@ -106,12 +106,16 @@
 
 <div align="center">
 
-<a href="https://github.com/i-am-anderson/pyground">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=i-am-anderson&repo=pyground&theme=tokyonight&hide_border=true" alt="Pyground"/>
-</a>
-<a href="https://github.com/i-am-anderson/course-platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=i-am-anderson&repo=course-platform&theme=tokyonight&hide_border=true" alt="Course Platform"/>
-</a>
+> ### 📦 [Pyground](https://github.com/i-am-anderson/pyground)
+> Plataforma de cursos desenvolvida para gerenciar aulas e módulos.
+> 
+> `JavaScript` • `Python` • `React`
+ 
+
+> ### 📦 [Plataforma de Curso](https://github.com/i-am-anderson/course-platform)
+> Plataforma de cursos desenvolvida para gerenciar aulas e módulos.
+> 
+> `JavaScript` • `Node.js` • `React`
 
 </div>
 
