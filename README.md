@@ -1,3 +1,5 @@
+<div style="width:850px;margin:0 auto;">
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+Anderson+Araujo+%F0%9F%91%8B;Desenvolvedor+Full-Stack+%F0%9F%92%BB;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;5%2B+anos+construindo+produtos+digitais)](https://git.io/typing-svg)
@@ -74,7 +76,7 @@
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem;">
+<div align="center">
   <div>
     <div>
       <img alt="Perfil GitHub" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=i-am-anderson&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -104,11 +106,11 @@
 
 <div align="center">
 
-<a href="https://github.com/i-am-anderson/dogs-next">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=i-am-anderson&repo=dogs-next&theme=tokyonight&hide_border=true" alt="Projeto 1"/>
+<a href="https://github.com/i-am-anderson/pyground">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=i-am-anderson&repo=pyground&theme=tokyonight&hide_border=true" alt="Pyground"/>
 </a>
-<a href="https://github.com/i-am-anderson/dogs-next">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=i-am-anderson&repo=dogs-next&theme=tokyonight&hide_border=true" alt="Projeto 2"/>
+<a href="https://github.com/i-am-anderson/course-platform">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=i-am-anderson&repo=course-platform&theme=tokyonight&hide_border=true" alt="Course Platform"/>
 </a>
 
 </div>
@@ -138,11 +140,8 @@
 
 <div align="center">
 
-<!-- Frase de rodapé opcional -->
-<i>"A programação é a arte de transformar ideias em realidade."</i>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=58A6FF&text=%22A%20programa%C3%A7%C3%A3o%20%C3%A9%20a%20arte%20de%20transformar%20ideias%20em%20realidade.%22&section=footer&reversal=true&textBg=false&fontColor=ffffff&fontAlignY=70&fontSize=25" alt="footer" />
 
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=100&section=footer" alt="footer" />
+</div>
 
 </div>
