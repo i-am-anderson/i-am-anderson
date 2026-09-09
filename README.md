@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- Banner com texto digitando - troque "line" pelas frases que quiser -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Anderson+Araujo+%F0%9F%91%8B;Desenvolvedor+Full-Stack+%F0%9F%92%BB;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;5%2B+anos+construindo+produtos+digitais" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+Anderson+Araujo+%F0%9F%91%8B;Desenvolvedor+Full-Stack+%F0%9F%92%BB;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;5%2B+anos+construindo+produtos+digitais)](https://git.io/typing-svg)
 
 <br/>
 
