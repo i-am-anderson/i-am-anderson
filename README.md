@@ -27,5 +27,31 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> 
 </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-anderson&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
+
+## 📊 GitHub Stats:
+
+<table>
+  <tr>
+    <td>
+      <img alt="Perfil GitHub" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zecki1&theme=tokyonight" />
+    </td>
+    <td>
+      <img alt="Streak" width="100%" src="https://streak-stats.demolab.com?user=zecki1&locale=pt-br&theme=tokyonight" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img alt="Estatísticas" width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zecki1&theme=tokyonight" />
+      <img alt="Linguagens mais usadas" width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zecki1&theme=tokyonight" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img alt="Commits por linguagem" width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zecki1&theme=tokyonight" />
+      <img alt="Horários produtivos" width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zecki1&theme=tokyonight&utcOffset=-3" />
+    </td>
+  </tr>
+</table>
+
+---
