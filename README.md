@@ -114,7 +114,7 @@
         <br>
         <div align="center">
           <a href="https://github.com/i-am-anderson/pyground">
-            <img src="images/image3.png" width="100%" alt="Preview Pyground" />
+            <img src="https://raw.githubusercontent.com/i-am-anderson/i-am-anderson/main/images/image0.png" width="100%" alt="Preview Pyground" />
           </a>
         </div>
         <br>
@@ -133,7 +133,7 @@
         <br>
         <div align="center">
           <a href="https://github.com/i-am-anderson/course-platform">
-            <img src="images/image0.png" width="100%" alt="Preview Plataforma de Curso" />
+            <img src="https://raw.githubusercontent.com/i-am-anderson/i-am-anderson/main/images/image1.png" width="100%" alt="Preview Plataforma de Curso" />
           </a>
         </div>
         <br>
@@ -154,7 +154,7 @@
         <br>
         <div align="center">
           <a href="https://api.anderzone.com.br/docs">
-            <img src="images/image2.png" width="100%" alt="Preview API Agendamento" />
+            <img src="https://raw.githubusercontent.com/i-am-anderson/i-am-anderson/main/images/image2.png" width="100%" alt="Preview API Agendamento" />
           </a>
         </div>
         <br>
@@ -174,7 +174,7 @@
         <br>
         <div align="center">
           <a href="https://auth.anderzone.com.br">
-            <img src="images/image1.png" width="100%" alt="Preview Agenda" />
+            <img src="https://raw.githubusercontent.com/i-am-anderson/i-am-anderson/main/images/image3.png" width="100%" alt="Preview Agenda" />
           </a>
         </div>
         <br>
@@ -182,6 +182,46 @@
         <p align="center">
           <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
           <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        </p>
+      </td>
+    </tr>
+   <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">📦 <a href="https://petcare-nine-xi.vercel.app/">PI!Pet</a></h3>
+        <div align="center">
+          <img src="https://img.shields.io/badge/🔒_Privado-555555?style=flat-square" alt="Repositório Privado" />
+        </div>
+        <br>
+        <div align="center">
+          <a href="https://github.com/i-am-anderson/pyground">
+            <img src="https://raw.githubusercontent.com/i-am-anderson/i-am-anderson/main/images/image4.png" width="100%" alt="Preview Pyground" />
+          </a>
+        </div>
+        <br>
+        <p align="center">Site demonstrativo de um sistema de cuidados com animais de estimação (Apresentação para Projeto Integrador 1 do curso de ADS da Fatec).</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="Typescript" />
+          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        </p>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center">📦 <a href="https://division-one.vercel.app/">The Division Site</a></h3>
+        <div align="center">
+          <img src="https://img.shields.io/badge/🔒_Privado-555555?style=flat-square" alt="Repositório Privado" />
+        </div>
+        <br>
+        <div align="center">
+          <a href="https://github.com/i-am-anderson/course-platform">
+            <img src="https://raw.githubusercontent.com/i-am-anderson/i-am-anderson/main/images/image5.png" width="100%" alt="Preview Plataforma de Curso" />
+          </a>
+        </div>
+        <br>
+        <p align="center">Site exemplo de portfólio para um desenvolvedor, no estilo "The Division".</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="Typescript" />
           <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
         </p>
       </td>
