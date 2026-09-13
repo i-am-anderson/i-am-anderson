@@ -1,4 +1,4 @@
-<div style="width:850px;margin:0 auto;">
+<div style="width: 100%;max-width:850px;margin:0 auto;">
 
 <div align="center">
 
