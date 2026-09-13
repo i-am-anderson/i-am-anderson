@@ -194,8 +194,8 @@
         </div>
         <br>
         <div align="center">
-          <a href="https://github.com/i-am-anderson/pyground">
-            <img src="https://raw.githubusercontent.com/i-am-anderson/i-am-anderson/main/images/image4.png" width="100%" alt="Preview Pyground" />
+          <a href="https://petcare-nine-xi.vercel.app/">
+            <img src="https://raw.githubusercontent.com/i-am-anderson/i-am-anderson/main/images/image4.png" width="100%" alt="Preview PI!Pet" />
           </a>
         </div>
         <br>
@@ -213,8 +213,8 @@
         </div>
         <br>
         <div align="center">
-          <a href="https://github.com/i-am-anderson/course-platform">
-            <img src="https://raw.githubusercontent.com/i-am-anderson/i-am-anderson/main/images/image5.png" width="100%" alt="Preview Plataforma de Curso" />
+          <a href="https://division-one.vercel.app/">
+            <img src="https://raw.githubusercontent.com/i-am-anderson/i-am-anderson/main/images/image5.png" width="100%" alt="Preview The Division Site" />
           </a>
         </div>
         <br>
