@@ -112,6 +112,12 @@
           <img src="https://img.shields.io/badge/🌎_Público-488207?style=flat-square" alt="Repositório Público" />
         </div>
         <br>
+        <div align="center">
+          <a href="https://github.com/i-am-anderson/pyground">
+            <img src="images/image3.png" width="100%" alt="Preview Pyground" />
+          </a>
+        </div>
+        <br>
         <p align="center">Playground para experimentar e testar códigos em Python.</p>
         <p align="center">
           <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -123,6 +129,12 @@
         <h3 align="center">📦 <a href="https://github.com/i-am-anderson/course-platform">Plataforma de Curso</a></h3>
         <div align="center">
           <img src="https://img.shields.io/badge/🌎_Público-488207?style=flat-square" alt="Repositório Público" />
+        </div>
+        <br>
+        <div align="center">
+          <a href="https://github.com/i-am-anderson/course-platform">
+            <img src="images/image0.png" width="100%" alt="Preview Plataforma de Curso" />
+          </a>
         </div>
         <br>
         <p align="center">Plataforma de cursos desenvolvida para gerenciar aulas e módulos.</p>
@@ -140,6 +152,12 @@
           <img src="https://img.shields.io/badge/🔒_Privado-555555?style=flat-square" alt="Repositório Privado" />
         </div>
         <br>
+        <div align="center">
+          <a href="https://api.anderzone.com.br/docs">
+            <img src="images/image2.png" width="100%" alt="Preview API Agendamento" />
+          </a>
+        </div>
+        <br>
         <p align="center">API de agendamento de compromissos, reuniões e eventos, com gerenciamento de usuários.</p>
         <p align="center">
           <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -152,6 +170,12 @@
         <h3 align="center">📦 <a href="https://auth.anderzone.com.br">Agenda</a></h3>
         <div align="center">
           <img src="https://img.shields.io/badge/🔒_Privado-555555?style=flat-square" alt="Repositório Privado" />
+        </div>
+        <br>
+        <div align="center">
+          <a href="https://auth.anderzone.com.br">
+            <img src="images/image1.png" width="100%" alt="Preview Agenda" />
+          </a>
         </div>
         <br>
         <p align="center">Agenda de compromissos, reuniões e eventos; utiliza API de agendamento acima.</p>
