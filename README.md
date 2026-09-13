@@ -101,22 +101,68 @@
 
 <br/>
 
-
 ## 🚀 Projetos em destaque
 
 <div align="center">
-
-> ### 📦 [Pyground](https://github.com/i-am-anderson/pyground)
-> Plataforma de cursos desenvolvida para gerenciar aulas e módulos.
-> 
-> `JavaScript` • `Python` • `React`
- 
-
-> ### 📦 [Plataforma de Curso](https://github.com/i-am-anderson/course-platform)
-> Plataforma de cursos desenvolvida para gerenciar aulas e módulos.
-> 
-> `JavaScript` • `Node.js` • `React`
-
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">📦 <a href="https://github.com/i-am-anderson/pyground">Pyground</a></h3>
+        <div align="center">
+          <img src="https://img.shields.io/badge/🌎_Público-488207?style=flat-square" alt="Repositório Público" />
+        </div>
+        <br>
+        <p align="center">Playground para experimentar e testar códigos em Python.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        </p>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center">📦 <a href="https://github.com/i-am-anderson/course-platform">Plataforma de Curso</a></h3>
+        <div align="center">
+          <img src="https://img.shields.io/badge/🌎_Público-488207?style=flat-square" alt="Repositório Público" />
+        </div>
+        <br>
+        <p align="center">Plataforma de cursos desenvolvida para gerenciar aulas e módulos.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">📦 <a href="https://api.anderzone.com.br/docs">API Agendamento</a></h3>
+        <div align="center">
+          <img src="https://img.shields.io/badge/🔒_Privado-555555?style=flat-square" alt="Repositório Privado" />
+        </div>
+        <br>
+        <p align="center">API de agendamento de compromissos, reuniões e eventos, com gerenciamento de usuários.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+          <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+          <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        </p>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center">📦 <a href="https://auth.anderzone.com.br">Agenda</a></h3>
+        <div align="center">
+          <img src="https://img.shields.io/badge/🔒_Privado-555555?style=flat-square" alt="Repositório Privado" />
+        </div>
+        <br>
+        <p align="center">Agenda de compromissos, reuniões e eventos; utiliza API de agendamento acima.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
