@@ -114,7 +114,7 @@
         <br>
         <div align="center">
           <a href="https://github.com/i-am-anderson/pyground">
-            <img src="https://raw.githubusercontent.com/i-am-anderson/i-am-anderson/main/images/image0.png" width="100%" alt="Preview Pyground" />
+            <img src="https://raw.githubusercontent.com/i-am-anderson/i-am-anderson/main/images/image3.png" width="100%" alt="Preview Pyground" />
           </a>
         </div>
         <br>
@@ -133,7 +133,7 @@
         <br>
         <div align="center">
           <a href="https://github.com/i-am-anderson/course-platform">
-            <img src="https://raw.githubusercontent.com/i-am-anderson/i-am-anderson/main/images/image1.png" width="100%" alt="Preview Plataforma de Curso" />
+            <img src="https://raw.githubusercontent.com/i-am-anderson/i-am-anderson/main/images/image0.png" width="100%" alt="Preview Plataforma de Curso" />
           </a>
         </div>
         <br>
@@ -174,7 +174,7 @@
         <br>
         <div align="center">
           <a href="https://auth.anderzone.com.br">
-            <img src="https://raw.githubusercontent.com/i-am-anderson/i-am-anderson/main/images/image3.png" width="100%" alt="Preview Agenda" />
+            <img src="https://raw.githubusercontent.com/i-am-anderson/i-am-anderson/main/images/image1.png" width="100%" alt="Preview Agenda" />
           </a>
         </div>
         <br>
