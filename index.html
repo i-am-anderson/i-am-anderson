@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Anderson Araujo - Portfólio</title>
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.5.0/github-markdown.min.css">
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+
+  <style>
+    body {
+      box-sizing: border-box;
+      min-width: 200px;
+      max-width: 980px;
+      margin: 0 auto;
+      padding: 45px;
+      background-color: #0d1117;
+    }
+
+    .markdown-body {
+      color-scheme: dark;
+    }
+  </style>
+</head>
+
+<body>
+
+  <div id="content" class="markdown-body">
+    ...Carregando...
+  </div>
+
+  <script>
+    const urlRaw = 'https://raw.githubusercontent.com/i-am-anderson/i-am-anderson/main/README.md';
+
+    fetch(urlRaw)
+      .then(response => {
+        if (!response.ok) throw new Error("Erro ao buscar o arquivo");
+        return response.text();
+      })
+      .then(text => {
+        document.getElementById('content').innerHTML = marked.parse(text);
+      })
+      .catch(error => {
+        document.getElementById('content').innerHTML = "<p>Erro ao carregar o README.</p>";
+        console.error(error);
+      });
+  </script>
+
+</body>
+
+</html>
